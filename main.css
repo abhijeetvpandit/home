@@ -1,0 +1,70 @@
+body {
+    margin: 30px;
+    border-width: 30px;
+    background-color: #393939;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    color: #FF5A09;
+}
+
+h3 {
+    color:  #ec7f37;
+}
+
+p {
+    margin: 30px;
+}
+
+a { color: white; 
+} 
+
+.avp {
+    width: 45%;
+    min-width: auto;
+    max-width: 200px;
+    margin-right: auto;
+    float: right;
+}
+
+.project {
+    text-align: center;
+    background-color: black;
+    color: #be4f0c;
+    margin: auto;
+    padding: 20px;
+      
+}
+
+input[type=text] {
+    width: auto ;
+    padding: 10px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%
+}
+
+video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%
+}
+
+input[type="submit"] {
+    background-color: #FF5A09;
+    width: auto;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    margin: 8px 0px;
+    cursor: pointer;
+}
